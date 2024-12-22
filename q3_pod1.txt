@@ -1,0 +1,2 @@
+NAME   READY   STATUS    RESTARTS   AGE   IP       NODE     NOMINATED NODE   READINESS GATES
+pod1   0/1     Pending   0          18s   <none>   <none>   <none>           <none>
